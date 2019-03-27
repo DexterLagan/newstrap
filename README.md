@@ -17,7 +17,7 @@ http://localhost/index.cgi
 
 ---
 
-For furth customization, see the following pages for sample content:
+For further customization, see the following pages for sample content:
 http://bootstrapdocs.com/v3.3.4/docs/examples/theme/
 http://bootstrapdocs.com/v3.3.4/docs/getting-started/#examples
 
