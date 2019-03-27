@@ -2,20 +2,22 @@
 A fast, lightweight web framework written in newLISP
 
 How to use:
-1) edit the database configuration file:
+1) update the database configuration file:
 <pre>
 nano db.conf
 </pre>
 2) start the server with:
 <pre>
-sudo newlisp -http -d 80 -w ~/Code/newlisp/newstrap/
+sudo newlisp -http -d 80 -w ~/path/to/newstrap/
 </pre>
 3) point your browser to:
 <pre>
 http://localhost/index.cgi
 </pre>
 
-See the following pages for sample content:
+---
+
+For furth customization, see the following pages for sample content:
 http://bootstrapdocs.com/v3.3.4/docs/examples/theme/
 http://bootstrapdocs.com/v3.3.4/docs/getting-started/#examples
 
