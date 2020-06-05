@@ -1,13 +1,12 @@
 # newstrap
 A fast, lightweight web framework written in newLISP
 
-<h1>How does it look like?</h1><br>
-![alt text](https://github.com/DexterLagan/newstrap/blob/master/screenshots/20181215_102358893_iOS.jpg)
+<h2>How does it look like?</h2><br>
 
-![Alt text](/blob/master/screenshots/20181215_102358893_iOS.jpg?raw=true "Screenshot")
+![Alt text](/screenshots/20181215_102358893_iOS.jpg?raw=true "Screenshot")
 
 
-<h1>How to use:</h1><br>
+<h2>How to use:</h2><br>
 1) update the database configuration file:
 <pre>
 nano db.conf
