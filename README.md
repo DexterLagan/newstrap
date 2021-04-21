@@ -31,3 +31,7 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
 https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css
 https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+
+## License
+
+Newstrap is free software; see [LICENSE](https://github.com/DexterLagan/newstrap/blob/main/LICENSE) for more details.
