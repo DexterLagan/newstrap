@@ -34,4 +34,4 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
 
 ## License
 
-Newstrap is free software; see [LICENSE](https://github.com/DexterLagan/newstrap/blob/main/LICENSE) for more details.
+Newstrap is free software; see [LICENSE](https://github.com/DexterLagan/newstrap/blob/master/LICENSE) for more details.
