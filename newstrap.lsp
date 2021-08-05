@@ -23,7 +23,7 @@
 (define (output-html content)
     (print (replace html-tag (read-file html-template) content)))
 
-; create a temporary html pag and point a browser to it
+; create a temporary html page and point a browser to it
 (define (display content filename)
     (let (html (replace html-tag (read-file html-template) content))
         (write-file filename html))
